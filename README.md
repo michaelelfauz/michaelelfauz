@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💀 Michael Elfauz
+# Hello !
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=CTF+Player+%7C+Security+Researcher;Web+%26+Binary+Exploitation;Reverse+Engineering+Enthusiast;Always+Learning+New+Exploits)](https://git.io/typing-svg)
 
@@ -64,15 +64,6 @@ fun_fact: I turn coffee into exploits ☕→🔓
 
 ---
 
-### 📝 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-<div align="center">
-
 ### 💬 Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -85,9 +76,9 @@ fun_fact: I turn coffee into exploits ☕→🔓
 
 **📫 Let's Connect!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michaelelfauz)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadeharamichael@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=michaelelfauz&color=blueviolet&style=flat-square&label=Profile+Views)
 
