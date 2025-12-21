@@ -62,6 +62,25 @@ fun_fact: I turn coffee into exploits ☕→🔓
   
 </div>
 
+### 📊 GitHub Stats
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michaelelfauz&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelelfauz&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
+
+</div>
+
+---
+
+### 🔥 GitHub Streak Stats
+
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=michaelelfauz&theme=blueberry&hide_border=false)
+
+</div>
+
 ---
 
 
