@@ -62,15 +62,6 @@ fun_fact: I turn coffee into exploits ☕→🔓
   
 </div>
 
-### 📊 GitHub Stats
-
----
-
----
-
-
----
-
 ### 📝 Recent Activity
 
 <!--START_SECTION:activity-->
