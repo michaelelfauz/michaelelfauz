@@ -62,6 +62,8 @@ fun_fact: I turn coffee into exploits ☕→🔓
   
 </div>
 
+---
+
 ### 📝 Recent Activity
 
 <!--START_SECTION:activity-->
