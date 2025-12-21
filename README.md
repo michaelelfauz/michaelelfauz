@@ -73,14 +73,6 @@ fun_fact: I turn coffee into exploits ☕→🔓
 
 ---
 
-### 🔥 GitHub Streak Stats
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=michaelelfauz&theme=blueberry&hide_border=false)
-
-</div>
-
 ---
 
 
