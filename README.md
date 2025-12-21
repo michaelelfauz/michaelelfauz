@@ -57,6 +57,7 @@ fun_fact: I turn coffee into exploits ☕→🔓
 </div>
 
 <div align="center">
+
   
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=michaelelfauz&theme=tokyo-night&hide_border=true)
   
