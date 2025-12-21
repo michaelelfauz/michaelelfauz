@@ -64,19 +64,6 @@ fun_fact: I turn coffee into exploits ☕→🔓
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=michaelelfauz&theme=darkhub&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/? user=michaelelfauz&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
