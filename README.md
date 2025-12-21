@@ -1,135 +1,122 @@
-# 👾 Hello, I'm Michael Elfauz
-
-```ascii
-  ______ _______ ______   _     _            _               
- / _____/___ ___|  ____| | |   | |          | |              
-| |       |  | | |____   | |___| | __ _  ___| | _____ _ __  
-| |       |  | |  ____|  |  ___  |/ _` |/ __| |/ / _ \ '__| 
-| |_____  |  | | |       | |   | | (_| | (__|   <  __/ |    
- \______|  |__| |_|       |_|   |_|\__,_|\___|_|\_\___|_|    
-```
-
-## 🚩 CTF Enthusiast | Security Researcher
-
-> *"In a world of 1s and 0s, I find the vulnerabilities."*
-
-### 💀 About Me
-
-```python
-class CTFPlayer:
-    def __init__(self):
-        self.name = "Michael Elfauz"
-        self.role = "CTF Player"
-        self.interests = [
-            "Web Exploitation", 
-            "Binary Exploitation",
-            "Reverse Engineering",
-            "Cryptography",
-            "Digital Forensics"
-        ]
-        self.current_focus = "Pwn & Web Exploitation"
-    
-    def say_hi(self):
-        print("Thanks for dropping by!  Let's hack some challenges 🔓")
-
-me = CTFPlayer()
-me.say_hi()
-```
-
----
-
-### 🛠️ Skills & Arsenal
-
-**Web Exploitation:**
-```
-IDOR • SQLi/Blind SQLi • XSS • SSRF • SSTI • LFI/RFI
-Prototype Pollution • Deserialization • RCE • Mass Assignment
-```
-
-**Binary Exploitation:**
-```
-Buffer Overflow • ROP • Shellcode • Format String
-Stack Pivoting • Heap Exploitation • Bypass PIE/Canary/NX
-```
-
-**Reverse Engineering:**
-```
-x86_64 Assembly • GDB/Ghidra/IDA • Binary Analysis
-Deobfuscation • Android RE
-```
-
-**Cryptography:**
-```
-RSA Attacks • PRNG Weaknesses • AES Modes • ECC/DSA
-```
-
-**Forensics:**
-```
-PCAP Analysis • Memory Forensics • File Carving • Log Analysis
-```
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaelelfauz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelelfauz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+# 💀 Michael Elfauz
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp. com/?user=michaelelfauz&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=CTF+Player+%7C+Security+Researcher;Web+%26+Binary+Exploitation;Reverse+Engineering+Enthusiast;Always+Learning+New+Exploits)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 🏆 CTF Achievements
+<img align="right" alt="Hacking GIF" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVqeGI2cHNxNjZrY3puNGNjOG5uM3IwZnl1Y3dxdWJrNmhxYTZvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif">
 
-```javascript
-const achievements = {
-    platforms: ["HackTheBox", "TryHackMe", "CTFtime"],
-    competitions: "Various CTF Competitions",
-    writeups: "Check my repositories for detailed writeups!"
-};
+### 👨‍💻 About Me
+
+```yaml
+name: Michael Elfauz
+role: CTF Player
+location: Indonesia
+interests: 
+  - Web Exploitation
+  - Binary Exploitation  
+  - Reverse Engineering
+  - Cryptography
+  - Forensics
+currently_learning:  Advanced Heap Exploitation
+fun_fact: I turn coffee into exploits ☕→🔓
 ```
 
----
-
-### 📝 Latest CTF Writeups
-
-<!-- Nanti link ke repo writeup kamu -->
-- 🔐 [Challenge Name] - Web Exploitation
-- 💣 [Challenge Name] - Binary Exploitation  
-- 🔍 [Challenge Name] - Reverse Engineering
+<br clear="right"/>
 
 ---
 
-### 🌐 Connect With Me
+### 🚀 Tech Stack
 
 <p align="center">
-  <a href="https://github.com/michaelelfauz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E? style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25? style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ghidra-ED1C24?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GDB-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+</p>
+
+---
+
+### 📊 Stats
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michaelelfauz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel. app/api/top-langs/? username=michaelelfauz&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=michaelelfauz&theme=tokyo-night&hide_border=true)
+  
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=michaelelfauz&theme=darkhub&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/? user=michaelelfauz&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 📝 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
 <div align="center">
 
-### 💭 Random Dev Quote
+### 💬 Quote of the Day
 
-![Quote](https://quotes-github-readme.vercel.app/api? type=horizontal&theme=radical)
-
-### 👀 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/michaelelfauz/count. svg)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-**⚡ Fun Fact:** *All my exploits are performed in legal CTF environments! *
+![Snake animation](https://raw.githubusercontent.com/michaelelfauz/michaelelfauz/output/github-contribution-grid-snake-dark.svg)
 
-*"The quieter you become, the more you can hear."* - Ram Dass
+---
+
+**📫 Let's Connect!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=michaelelfauz&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+  
+**⚡ All exploits are performed in legal CTF environments ⚡**
+
+*Happy Hacking! 🔓*
 
 </div>
