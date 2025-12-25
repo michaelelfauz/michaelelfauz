@@ -22,7 +22,7 @@ interests:
   - Reverse Engineering
   - Cryptography
   - Forensics
-currently_learning:  Advanced Heap Exploitation
+currently_learning:  pwn tools tutoeials
 fun_fact: I turn coffee into exploits ☕→🔓
 ```
 
