@@ -50,11 +50,6 @@ fun_fact: I turn coffee into exploits ☕→🔓
 ### 📊 Stats
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michaelelfauz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel. app/api/top-langs/? username=michaelelfauz&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelelfauz&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
-</div>
 
 <div align="center">
 
