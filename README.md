@@ -84,6 +84,8 @@ fun_fact: I turn coffee into exploits ☕→🔓
 
 ---
 
+[![Spotify](https://spotify-readme.vercel.app/api/now-playing?uid=31tbzi5yzjbi4ep4gws4zlufgihy&theme=dark)](https://open.spotify.com/user/31tbzi5yzjbi4ep4gws4zlufgihy)
+
 <div align="center">
   
 **⚡ All exploits are performed in legal CTF environments ⚡**
