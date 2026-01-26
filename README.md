@@ -60,7 +60,7 @@ fun_fact: I turn coffee into exploits ☕→🔓
 
 ---
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31tbzi5yzjbi4ep4gws4zlufgihy&cover_image=true&theme=default)](https://spotify-github-profile.kittinanx.com)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tbzi5yzjbi4ep4gws4zlufgihy&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=true&profanity=true&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=31tbzi5yzjbi4ep4gws4zlufgihy&redirect=true)
 
 ### 💬 Quote of the Day
 
