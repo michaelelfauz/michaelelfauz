@@ -60,6 +60,11 @@ currently_learning: pwn/binary exploitation, web exploitation
 ---
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tbzi5yzjbi4ep4gws4zlufgihy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31tbzi5yzjbi4ep4gws4zlufgihy&redirect=true)
+<div align="center">
+  <a href="https://open.spotify.com/user/31tbzi5yzjbi4ep4gws4zlufgihy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tbzi5yzjbi4ep4gws4zlufgihy&count=3&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ### 💬 Quote of the Day
 
