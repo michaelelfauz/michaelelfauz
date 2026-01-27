@@ -1,8 +1,6 @@
 <div align="center">
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/banner.png" />
-</p>
+  <img src="https://i.imgflip.com/9kqjnj.jpg"  />
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
