@@ -2,7 +2,7 @@
 
 # Hello !
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=CTF+Player+%7C+Security+Researcher;Web+%26+Binary+Exploitation;Reverse+Engineering+Enthusiast;Always+Learning+New+Exploits)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Michael+Elfauz;CTF+Player+%7C+Security+Researcher;Always+Learning+Cyber+Security)](https://git.io/typing-svg)
 
 </div>
 
