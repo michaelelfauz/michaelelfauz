@@ -1,10 +1,14 @@
 <div align="center">
 
-# Hello !
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/banner.png" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Michael+Elfauz;CTF+Player+%7C+Security+Researcher;Always+Learning+Cyber+Security)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Michael+Elfauz;CTF+Player+%7C+Cyber+Security;Always+Learning+New+Things" />
+  </a>
+</p>
 
 ---
 
@@ -23,7 +27,6 @@ interests:
   - Cryptography
   - Forensics
 currently_learning: pwn/binary exploitation, web exploitation
-fun_fact: I turn coffee into exploits ☕→🔓
 ```
 
 <br clear="right"/>
