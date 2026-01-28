@@ -91,7 +91,6 @@ currently_learning: pwn/binary exploitation, web exploitation
 
 ---
 
-
 <div align="center">
   
 **⚡ All exploits are performed in legal CTF environments ⚡**
