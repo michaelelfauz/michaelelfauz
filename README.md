@@ -73,11 +73,6 @@ currently_learning: pwn/binary exploitation, web exploitation
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-![Snake animation](https://raw.githubusercontent.com/michaelelfauz/michaelelfauz/output/github-contribution-grid-snake-dark.svg)
-
----
 
 **📫 Let's Connect!**
 
