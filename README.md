@@ -9,6 +9,17 @@
 
 ---
 
+**📫 Let's Connect!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-elfauz-399a1032b/)
+[![Facebook](https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&/logoColor=white)](https://www.facebook.com/fvckell)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadeharamichael@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=michaelelfauz&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
 ### 🚀 Tech Stack
 
 <!-- Languages & Core -->
@@ -85,18 +96,6 @@
 ---
 
 ![Snake animation](https://raw.githubusercontent.com/michaelelfauz/michaelelfauz/output/github-contribution-grid-snake-dark.svg)
-
----
-
-**📫 Let's Connect!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-elfauz-399a1032b/)
-[![Facebook](https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&/logoColor=white)](https://www.facebook.com/fvckell)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadeharamichael@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=michaelelfauz&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
 
 ---
 
