@@ -17,10 +17,6 @@
   <a href="https://facebook.com/fvckell" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="mailto:kadeharamichael@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="email logo" />
-  </a>
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=michaelelfauz&color=blueviolet&style=flat-square&label=Profile+Views" height="40" alt="Profile Views"/>
