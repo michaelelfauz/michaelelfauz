@@ -1,5 +1,5 @@
 <h1 align="center">Hello There! 👋</h1>
-<h3 align="center">はじめまして！ My name is Michael Elfauz.<br/>I like to participate in CTF challenge.</h3>
+<h3 align="center">My name is Michael Elfauz.<br/>I like to participate in CTF challenge.</h3>
 <br/>
 
 
