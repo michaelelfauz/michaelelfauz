@@ -24,8 +24,6 @@
   <img src="https://komarev.com/ghpvc/?username=michaelelfauz&color=blueviolet&style=flat-square&label=Profile+Views" height="40" alt="Profile Views"/>
 </div>
 
----
-
 ### 🚀 Tech Stack
 
 <p>
