@@ -23,50 +23,27 @@
 
 <!-- Languages & Core -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 <!-- Security Domains -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Web_Exploitation-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Binary_Exploitation-darkred?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Reverse_Engineering-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cryptography-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Forensics-teal?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web_Exploitation-black?style=for-the-badge"/><img src="https://img.shields.io/badge/Binary_Exploitation-darkred?style=for-the-badge"/><img src="https://img.shields.io/badge/Reverse_Engineering-purple?style=for-the-badge"/><img src="https://img.shields.io/badge/Cryptography-blue?style=for-the-badge"/><img src="https://img.shields.io/badge/Forensics-teal?style=for-the-badge"/>
 </p>
 
 <!-- Security Tools -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ghidra-ED1C24?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GDB-228B22?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Radare2-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-0A0A0A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/><img src="https://img.shields.io/badge/Ghidra-ED1C24?style=for-the-badge"/><img src="https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge"/><img src="https://img.shields.io/badge/GDB-228B22?style=for-the-badge"/><img src="https://img.shields.io/badge/Radare2-000000?style=for-the-badge"/><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/><img src="https://img.shields.io/badge/Metasploit-0A0A0A?style=for-the-badge"/>
 </p>
 
 <!-- Web & Backend -->
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
 <!-- DevOps & Internals -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux_Internals-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux_Internals-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 
 ---
