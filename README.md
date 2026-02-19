@@ -10,7 +10,6 @@
 ---
 
 **📫 Let's Connect!**  
-**📫 Let's Connect!**  
 <div align="center">
   <a href="https://www.linkedin.com/in/michael-elfauz-399a1032b" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -21,6 +20,9 @@
   <a href="mailto:kadeharamichael@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="email logo" />
   </a>
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=michaelelfauz&color=blueviolet&style=flat-square&label=Profile+Views" height="40" alt="Profile Views"/>
 </div>
 
