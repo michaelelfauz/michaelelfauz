@@ -7,7 +7,7 @@
   I enjoy doing CTF challenges.
 </h3>
 
-**📫 Let's Connect!**  
+###📫 Let's Connect!  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/michael-elfauz-399a1032b" target="_blank">
