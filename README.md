@@ -1,4 +1,7 @@
-<h1 align="center">Hello There! 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=200&lines=Hai+%F0%9F%91%8B" />
+</h1>
+
 <h3 align="center">
   My name is Michael Elfauz.<br/>
   I like to participate in CTF challenge.
