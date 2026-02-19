@@ -1,30 +1,7 @@
-<div align="center">
+<h1 align="center">Hello There! 👋</h1>
+<h3 align="center">はじめまして！ My name is Michael Elfauz.<br/>I like to participate in CTF challenge.</h3>
+<br/>
 
-# Hello !
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=CTF+Player+%7C+Security+Researcher;Web+%26+Binary+Exploitation;Reverse+Engineering+Enthusiast;Always+Learning+New+Exploits)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<img align="right" alt="Hacking GIF" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVqeGI2cHNxNjZrY3puNGNjOG5uM3IwZnl1Y3dxdWJrNmhxYTZvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif">
-
-### 👨‍💻 About Me
-
-```yaml
-name: Michael Elfauz
-role: CTF Player
-location: Indonesia
-interests: 
-  - Web Exploitation
-  - Binary Exploitation  
-  - Reverse Engineering
-  - Cryptography
-  - Forensics
-currently_learning: pwn tools tutoeials
-fun_fact: I turn coffee into exploits ☕→🔓
-```
 
 <br clear="right"/>
 
