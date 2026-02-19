@@ -2,10 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=200&duration=2000&color=F75C7E&center=true&vCenter=true&width=200&lines=Hai+%F0%9F%91%8B" />
 </h1>
 
-<h2 align="center">
+<h3 align="center">
   My name is Michael Elfauz.<br/>
   I enjoy doing CTF challenges.
-</h2>
+</h3>
 
 <br>
 
