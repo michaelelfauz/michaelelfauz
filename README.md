@@ -4,7 +4,7 @@
 
 <h3 align="center">
   My name is Michael Elfauz.<br/>
-  I like to participate in CTF challenge.
+  I enjoy doing CTF challenges.
 </h3>
 
 ---
