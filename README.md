@@ -3,7 +3,6 @@
 <br/>
 <br clear="right"/>
 
-I am interested in **Cybser Security** and **CTF Challenge**.
 ---
 
 ### 🚀 Tech Stack
