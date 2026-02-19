@@ -7,8 +7,6 @@
   I enjoy doing CTF challenges.
 </h3>
 
----
-
 **📫 Let's Connect!**  
 
 <div align="center">
