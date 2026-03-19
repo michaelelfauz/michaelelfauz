@@ -22,4 +22,25 @@
   <img src="https://komarev.com/ghpvc/?username=michaelelfauz&color=blueviolet&style=flat-square&label=Profile+Views" height="40" alt="Profile Views"/>
 </div>
 
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=michaelelfauz&theme=tokyo-night&hide_border=true)
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelelfauz&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+  
+</div>
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tbzi5yzjbi4ep4gws4zlufgihy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31tbzi5yzjbi4ep4gws4zlufgihy&redirect=true)
+
+### 💬 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+![Snake animation](https://raw.githubusercontent.com/michaelelfauz/michaelelfauz/output/github-contribution-grid-snake-dark.svg)
+
+<div align="center">
+  
+**⚡ All exploits are performed in legal CTF environments ⚡**
+
+*Happy Hacking! 🔓*
+
+</div>
