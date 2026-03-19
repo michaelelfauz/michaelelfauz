@@ -22,37 +22,4 @@
   <img src="https://komarev.com/ghpvc/?username=michaelelfauz&color=blueviolet&style=flat-square&label=Profile+Views" height="40" alt="Profile Views"/>
 </div>
 
-## 🚀 Tech Stack
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><img src="https://img.shields.io/badge/Web_Exploitation-black?style=for-the-badge"/><img src="https://img.shields.io/badge/Binary_Exploitation-darkred?style=for-the-badge"/><img src="https://img.shields.io/badge/Reverse_Engineering-purple?style=for-the-badge"/><img src="https://img.shields.io/badge/Cryptography-blue?style=for-the-badge"/><img src="https://img.shields.io/badge/Forensics-teal?style=for-the-badge"/><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/><img src="https://img.shields.io/badge/Ghidra-ED1C24?style=for-the-badge"/><img src="https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge"/><img src="https://img.shields.io/badge/GDB-228B22?style=for-the-badge"/><img src="https://img.shields.io/badge/Radare2-000000?style=for-the-badge"/><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/><img src="https://img.shields.io/badge/Metasploit-0A0A0A?style=for-the-badge"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/><img src="https://img.shields.io/badge/Linux_Internals-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-</p>
-
-## 📊 Stats
-
-<div align="center">
-
-<div align="center">
-
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=michaelelfauz&theme=tokyo-night&hide_border=true)
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelelfauz&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-  
-</div>
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tbzi5yzjbi4ep4gws4zlufgihy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31tbzi5yzjbi4ep4gws4zlufgihy&redirect=true)
-
-### 💬 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-![Snake animation](https://raw.githubusercontent.com/michaelelfauz/michaelelfauz/output/github-contribution-grid-snake-dark.svg)
-
-<div align="center">
-  
-**⚡ All exploits are performed in legal CTF environments ⚡**
-
-*Happy Hacking! 🔓*
-
-</div>
