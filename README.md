@@ -4,7 +4,7 @@
 
 <h3 align="center">
   My name is Michael Elfauz.<br/>
-  I enjoy doing CTF challenges.
+  I enjoy doing CTF challenges And Currently Learning Bug Bounty.
 </h3>
 
 <br>
