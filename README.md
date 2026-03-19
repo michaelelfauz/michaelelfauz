@@ -22,10 +22,14 @@
   <img src="https://komarev.com/ghpvc/?username=michaelelfauz&color=blueviolet&style=flat-square&label=Profile+Views" height="40" alt="Profile Views"/>
 </div>
   
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelelfauz&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelelfauz&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </div>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tbzi5yzjbi4ep4gws4zlufgihy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31tbzi5yzjbi4ep4gws4zlufgihy&redirect=true)
+<br>
 
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31tbzi5yzjbi4ep4gws4zlufgihy&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tbzi5yzjbi4ep4gws4zlufgihy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true" />
+  </a>
 </div>
