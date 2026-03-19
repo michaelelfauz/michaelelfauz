@@ -7,12 +7,6 @@
   I enjoy doing CTF challenges.
 </h3>
 
-<div align="center">
-  <a href="https://tryhackme.com/p/michaelelfauz" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/michaelelfauz.png" alt="TryHackMe Badge" />
-  </a>
-</div>
-
 <br>
 
 <div align="center">
