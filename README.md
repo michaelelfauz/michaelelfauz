@@ -27,7 +27,7 @@
 <br>
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelelfauz&theme=blueberry&hide_border=false&layout=compact"/>
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=michaelelfauz&theme=github_dark"/>
 </div>
 
 <br>
