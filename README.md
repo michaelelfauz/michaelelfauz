@@ -31,9 +31,3 @@
 </div>
 
 <br>
-
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31tbzi5yzjbi4ep4gws4zlufgihy&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tbzi5yzjbi4ep4gws4zlufgihy&cover_image=true&theme=default&show_offline=true&background_color=121212"/>
-  </a>
-</div>
